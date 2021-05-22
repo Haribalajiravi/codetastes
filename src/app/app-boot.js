@@ -1,0 +1,1 @@
+export default {"app-component.html":"<div class=\"absolute-center creamieFont\">\r  Codetastes... Right ?\r</div>\r","app-component.css":".absolute-center {\r  display: flex;\r  justify-content: center;\r  align-items: center;\r  height: 500px;\r}\r.creamieFont {\r  font-size: 24pt;\r  font-weight: bold;\r  overflow: hidden;\r  text-overflow: ellipsis;\r  width: 100%;\r}\r"}

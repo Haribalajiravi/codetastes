@@ -1,0 +1,13 @@
+.absolute-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.creamieFont {
+  font-size: 24pt;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
