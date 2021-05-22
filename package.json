@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "creamie-watch -i && webpack --mode=development",
+    "build": "creamie-watch -i && webpack --mode=production",
     "development": "webpack-dev-server",
     "start": "creamie-watch -i && webpack --mode=production && pm2 start"
   },
